@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Web Developer"]
+        strings: ["Student"]
     });
 
     // owl carousel script
